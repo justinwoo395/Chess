@@ -5,11 +5,8 @@ A graphical chess program that allows two users to play against each other or us
 plays for Black. Keeps track of captured pieces on either side of the board, automatically sorting by piece value
 whenever a new piece is captured. 
 
-![Title screen]
-(https://github.com/justinwoo395/Chess/blob/master/Images/Title%20Screen.png)
+<img src="https://github.com/justinwoo395/Chess/blob/master/Images/Title%20Screen.png" />
 
-![Opening board]
-!(https://github.com/justinwoo395/Chess/blob/master/Images/Opening%20Board.png)
+<img src="https://github.com/justinwoo395/Chess/blob/master/Images/Opening%20Board.png" />
 
-![Captured pieces]
-!(https://github.com/justinwoo395/Chess/blob/master/Images/Captured%20Pieces.png)
+<img src="https://github.com/justinwoo395/Chess/blob/master/Images/Captured%20Pieces.png" />
