@@ -1,5 +1,5 @@
 # Chess
-<a Project link href="https://snap.berkeley.edu/snap/snap.html#present:Username=justinwoo395&ProjectName=chess">
+<a href="https://snap.berkeley.edu/snap/snap.html#present:Username=justinwoo395&ProjectName=chess">Project link</a>
 
 A graphical chess program that allows two users to play against each other or use an opening book that automatically
 plays for Black. Keeps track of captured pieces on either side of the board, automatically sorting by piece value
